@@ -5,7 +5,7 @@
 ## First a list of functions is made in which the inverse of a matrix is calculated 
 ## and can be called upon once calculated (getinv).
 ## Then if the inverse of a certain matrix is already calculated before
-## the inverse will not be calculated again but will be returned from the cache.
+## the inverse will not be calculated again but will be returned from the cache. 
 
 ## Write a short comment describing this function:
 
